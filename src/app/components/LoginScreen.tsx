@@ -127,7 +127,7 @@ export function LoginScreen({ onLogin }: LoginScreenProps) {
               <p className="text-xs text-gray-400 text-center mb-2">Contas de demonstração:</p>
               <div className="space-y-1">
                 {[
-                  { email: 'carlos@inspec360.com', label: 'Técnico' },
+                  { email: 'ismar.santos@vale-verde.com', label: 'Técnico' },
                   { email: 'supervisor@inspec360.com', label: 'Supervisor' },
                   { email: 'admin@inspec360.com', label: 'Super Admin' },
                 ].map((acc) => (
